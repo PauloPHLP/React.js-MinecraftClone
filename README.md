@@ -12,6 +12,7 @@ A Minecraft clone made with React.js and React Three.
 
 - React.js
 - Vite
+- TypeScript
 - Three
 - Zustand
 - Nanoid
